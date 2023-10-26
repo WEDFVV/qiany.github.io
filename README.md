@@ -2,10 +2,9 @@
 * my first site
 
 * qiany_site qwq
-* 
-![mahua](./images/bg.jpg.jpg)
-##这是什么?
-作者迁悠的静态个人网站
+* (./images/bgs.png)
+* ##这是什么?
+* 作者迁悠的静态个人网站
 
 ##你可以在这看到什么？
 
