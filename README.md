@@ -2,7 +2,6 @@
 * my first site
 
 * qiany_site qwq
-* (./images/bgs.png)
 * ##这是什么?
 * 作者迁悠的静态个人网站
 
